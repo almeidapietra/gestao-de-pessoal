@@ -22,7 +22,7 @@ Vendedor: Calcula o salário com base nas vendas e comissão.
 2. Importe o projeto em sua IDE Java preferida (como IntelliJ ou Eclipse).
 3. Navegue até o pacote testes e execute as classes de teste para verificar a funcionalidade de cada classe.
 
-###Contribuições
+### Contribuições
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ### contatos:
